@@ -15,6 +15,8 @@
   and the body of the outgoing mail. The information will be read out by the system. This makes
   it possible to condense the dependence of people with visual impairments on email-related
   activities.
+  
+  
 1.2 SCOPE OF THE PROJECT
   A voice email system is a fully computerized system that allows users to share and
   communicate messages without typing. It is primarily beneficial to the blind because all official
